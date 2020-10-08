@@ -1,11 +1,11 @@
---- snakeSDL2.exe | simple snake program made with SDL2 ---
+# --- snakeSDL2.exe | simple snake program made with SDL2 ---
 
-To move the snake:
+## To move the snake:
 
 UP : press W
 DOWN : press S
 LEFT : press A
 RIGHT : press D
 
-To exit:
+## To exit:
 Press SPACE or ESC.
