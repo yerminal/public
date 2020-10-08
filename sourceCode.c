@@ -100,6 +100,15 @@ int main()
     {
         snake[i].x = snake_x;
         snake[i].y = snake_y;
+        
+        if (snake[i].x > 1280)
+            snake[i].x -= 1280;
+        if (snake[i].x < 0)
+            snake[i].x += 1280;
+        if (snake[i].y > 720)
+            snake[i].y -= 720;
+        if (snake[i].y < 0)
+            snake[i].y += 720;
    
         if (bait_x == snake_x && bait_y == snake_y)
         {
