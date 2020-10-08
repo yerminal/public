@@ -8,4 +8,4 @@
 - RIGHT : press D
 
 ## To exit:
-Press SPACE or ESC.
+- Press SPACE or ESC.
