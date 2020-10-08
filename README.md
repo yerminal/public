@@ -12,3 +12,5 @@
 
 ## To exit :
 - Press SPACE or ESC.
+
+**The reason why I didn't explain anything in source code because it's hard to explain.**
