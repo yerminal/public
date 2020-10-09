@@ -1,4 +1,4 @@
-# snakeSDL2.exe | simple snake program made with SDL2 written in C
+# snakeSDL2.exe | simple snake program made with SDL2 using C
 The reason why I didn't explain anything in source code is that it's hard to explain.
 ## To run the program properly :
 - Download zip, extract it and run snakeSDL2.exe
