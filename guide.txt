@@ -1,5 +1,9 @@
 --- snakeSDL2.exe | simple snake program made with SDL2 ---
 
+WARNING :
+- It could be crashed if you won't deactivate the antivirus. (Since most antiviruses do not allow unknown programs to use GPU.)
+- Run snakeSDL2.exe with "SDL2.dll", "SDL2_image.dll", "SDL2_mixer.dll" and "Effects" folder in the same location.
+
 To move the snake:
 
 UP : press W
