@@ -5,7 +5,7 @@
 ## To run the program properly :
 - Download zip, extract it and run snakeSDL2.exe
 ### WARNING :
-**- It could be crashed if you won't deactivate the antivirus. (Since most antiviruses do not allow unknown programs to use GPU.)** 
+-** It could be crashed if you won't deactivate the antivirus. (Since most antiviruses do not allow unknown programs to use GPU.)** 
 - Run snakeSDL2.exe with "SDL2.dll", "SDL2_image.dll", "SDL2_mixer.dll" and "Effects" folder in the same location.
 
 ## To move the snake :
